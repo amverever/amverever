@@ -1,4 +1,5 @@
-It's Jeehong Baek. You can call me Amber. I know it's easier.
+# It's Jeehong Baek. 
+You can call me Amber. I know it's easier.
 - Data Analyst a.k.a The Wizard of Spreadsheet
 - Main Toolkits: MySQL, Python, Tableau, and of course, Spreadsheet.
 - Experienced profoundly in: Product Management and Marketing.
