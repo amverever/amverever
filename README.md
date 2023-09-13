@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @amverever
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently learning data analysis
-- 💞️ I’m looking to collaborate on data analysis and data engineering project
-- 📫 How to reach me 
+It's Jeehong Baek. You can call me Amber. I know it's easier.
+- Data Analyst a.k.a The Wizard of Spreadsheet
+- Main Toolkits: MySQL, Python, Tableau, and of course, Spreadsheet.
+- Experienced profoundly in: Product Management and Marketing.
+- Well-equipped with industrial experience of: Sports, Medical, and Digital Advertising
+- 📫 Reach out to me through LinkedIn or Email! 
 
 <!---
 amverever/amverever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
