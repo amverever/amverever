@@ -4,7 +4,7 @@ You can call me Amber. I know it's easier.
 - Main Toolkits: MySQL, Python, Tableau, and of course, Spreadsheet.
 - Experienced profoundly in: Product Management and Marketing.
 - Well-equipped with industrial experience of: Sports, Medical, and Digital Advertising
-- 📫 Reach out to me through [LinkedIn]([url](https://www.linkedin.com/in/jeehongbaek/) or [Email](forsomeregion@gmail.com)!
+- 📫 Reach out to me through [LinkedIn](https://www.linkedin.com/in/jeehongbaek/) or [Email](forsomeregion@gmail.com)!
 
 <!---
 amverever/amverever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
